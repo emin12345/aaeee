@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\GenList\GenList\bin\Debug\net6.0\GenList.exe
+C:\Users\ASUS\Desktop\GenList\GenList\bin\Debug\net6.0\GenList.deps.json
+C:\Users\ASUS\Desktop\GenList\GenList\bin\Debug\net6.0\GenList.runtimeconfig.json
+C:\Users\ASUS\Desktop\GenList\GenList\bin\Debug\net6.0\GenList.dll
+C:\Users\ASUS\Desktop\GenList\GenList\bin\Debug\net6.0\GenList.pdb
+C:\Users\ASUS\Desktop\GenList\GenList\obj\Debug\net6.0\GenList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\GenList\GenList\obj\Debug\net6.0\GenList.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\GenList\GenList\obj\Debug\net6.0\GenList.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\GenList\GenList\obj\Debug\net6.0\GenList.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\GenList\GenList\obj\Debug\net6.0\GenList.dll
+C:\Users\ASUS\Desktop\GenList\GenList\obj\Debug\net6.0\refint\GenList.dll
+C:\Users\ASUS\Desktop\GenList\GenList\obj\Debug\net6.0\GenList.pdb
+C:\Users\ASUS\Desktop\GenList\GenList\obj\Debug\net6.0\GenList.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\GenList\GenList\obj\Debug\net6.0\ref\GenList.dll
